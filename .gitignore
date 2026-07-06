@@ -24,7 +24,6 @@ projet_sandbox
 
 # Ignore modern LSP flag configurations cache if generated locally
 .clangd/
-.clangd
 
 # ==========================================
 # IDEs & Local Dev Environment
